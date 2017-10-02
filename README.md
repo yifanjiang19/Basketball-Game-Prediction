@@ -6,14 +6,13 @@
 > 2017 Seedcup Preliminary Contest
 
 ###Run Step
-GPU Version:</br>
+####GPU Version:
 1.train:
 `python train.py --model dnn --team_data_type reduce --cuda 1 --epoch 100 --batch-size 16`
 </br>
 2.test:
-`python test.py --cuda 1 --model 'dnn' --epoch 200 --team_data_type 'reduce' --model_param 'train_dnn_30.pkl'
-</br>
-CPU Version:</br>
+`python test.py --cuda 1 --model 'dnn' --epoch 200 --team_data_type 'reduce' --model_param 'train_dnn_30.pkl'`
+####CPU Version:
 1.train:
 `python train.py --model dnn --team_data_type reduce --cuda 0 --epoch 100 --batch-size 16`
 </br>
