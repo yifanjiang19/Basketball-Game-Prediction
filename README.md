@@ -2,8 +2,8 @@
 
 ## Introduction
 
-> Predict the probability of the basketball matches with Deep Neural Networks
-> 2017 Seedcup Preliminary Contest
+ Predict the probability of the basketball matches with Deep Neural Networks
+ 2017 Seedcup Preliminary Contest
 </br>
 ##Run Step
 ####GPU Version:
