@@ -5,14 +5,14 @@
  Predict the probability of the basketball matches with Deep Neural Networks
  2017 Seedcup Preliminary Contest
 </br>
-##Run Step
-####GPU Version:
+## Run Step
+#### GPU Version:
 1.train:
 `python train.py --model dnn --team_data_type reduce --cuda 1 --epoch 100 --batch-size 16`
 </br>
 2.test:
 `python test.py --cuda 1 --model 'dnn' --epoch 200 --team_data_type 'reduce' --model_param 'train_dnn_30.pkl'`
-####CPU Version:
+#### CPU Version:
 1.train:
 `python train.py --model dnn --team_data_type reduce --cuda 0 --epoch 100 --batch-size 16`
 </br>
