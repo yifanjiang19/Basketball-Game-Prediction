@@ -17,7 +17,7 @@
 `python train.py --model dnn --team_data_type reduce --cuda 0 --epoch 100 --batch-size 16`
 </br>
 2.test:
-`python test.py --cuda 1 --model 'dnn' --epoch 200 --team_data_type 'reduce' --model_param 'train_dnn_30.pkl'`
+`python test.py --cuda 0 --model 'dnn' --epoch 200 --team_data_type 'reduce' --model_param 'train_dnn_30.pkl'`
 
 
 #### Team Representation Network
