@@ -41,9 +41,9 @@
 
 ## Contributors
 
-* [VicChan](https://github.com/wondervictor)
+* [yueruchen](https://github.com/yueruchen)
 
-* [Yifan Jiang](https://github.com/yueruchen)
+* [VicChan](https://github.com/wondervictor)
 
 * [Xiangru Tang](https://github.com/tangxiangru)
 
